@@ -1,0 +1,323 @@
+﻿pergunta,categoria
+Olá,saudacao
+Oi,saudacao
+Bom dia,saudacao
+Boa tarde,saudacao
+Boa noite,saudacao
+Oi tudo bem?,saudacao
+Olá tudo bem?,saudacao
+E aí?,saudacao
+Olá pessoal,saudacao
+Oi chatbot,saudacao
+
+Qual o horário de funcionamento?,horario
+Que horas vocês abrem?,horario
+Até que horas atendem?,horario
+Qual é o horário da loja?,horario
+Vocês estão abertos agora?,horario
+Qual o horário de atendimento?,horario
+Vocês funcionam aos sábados?,horario
+Em quais horários posso levar meu pet?,horario
+Quando o pet shop abre?,horario
+Quando o pet shop fecha?,horario
+Vocês abrem no sábado?,horario
+Estão funcionando hoje?,horario
+Atendem durante a semana?,horario
+Qual o expediente de vocês?,horario
+Qual o horário para banho e tosa?,horario
+Posso levar meu cachorro agora?,horario
+O atendimento já começou?,horario
+Ainda estão atendendo?,horario
+Que horas inicia o atendimento?,horario
+Que horas encerra o atendimento?,horario
+Vocês trabalham aos domingos?,horario
+O pet shop está funcionando hoje?,horario
+Em quais dias vocês atendem?,horario
+Qual o melhor horário para levar meu pet?,horario
+O estabelecimento está aberto?,horario
+
+Qual é o endereço do pet shop?,endereco
+Onde vocês estão localizados?,endereco
+Como faço para chegar até vocês?,endereco
+Qual a localização da loja?,endereco
+Em qual bairro vocês ficam?,endereco
+Onde fica o pet shop?,endereco
+Qual o endereço completo?,endereco
+Vocês ficam perto do centro?,endereco
+Como encontro a loja?,endereco
+Qual a rua do pet shop?,endereco
+Onde está localizado o estabelecimento?,endereco
+Como chego até o pet shop?,endereco
+Qual é a localização de vocês?,endereco
+Vocês atendem em qual região?,endereco
+Qual o bairro da loja?,endereco
+Fica longe do centro?,endereco
+Me informe o endereço.,endereco
+Qual o local de atendimento?,endereco
+Onde posso encontrar vocês?,endereco
+Qual o ponto de referência?,endereco
+Em qual rua está o pet shop?,endereco
+Como faço para visitar a loja?,endereco
+Onde levo meu pet para atendimento?,endereco
+Qual é o endereço para atendimento?,endereco
+Preciso do endereço da empresa.,endereco
+
+Qual é o telefone do pet shop?,telefone
+Como entro em contato?,telefone
+Vocês têm WhatsApp?,telefone
+Qual o número para atendimento?,telefone
+Como posso falar com vocês?,telefone
+Qual é o contato da loja?,telefone
+Posso ligar para vocês?,telefone
+Qual o telefone para agendamento?,telefone
+Me passe o WhatsApp do pet shop.,telefone
+Como faço contato com a equipe?,telefone
+Qual é o número da empresa?,telefone
+Vocês possuem telefone fixo?,telefone
+Quero falar com um atendente.,telefone
+Como entro em contato pelo WhatsApp?,telefone
+Qual o telefone para informações?,telefone
+Como faço para ligar para vocês?,telefone
+Preciso do número de contato.,telefone
+Qual o WhatsApp para atendimento?,telefone
+Existe algum telefone disponível?,telefone
+Qual o canal de atendimento?,telefone
+Posso enviar mensagem pelo WhatsApp?,telefone
+Como falo com a recepção?,telefone
+Qual o telefone da unidade?,telefone
+Há um número para contato?,telefone
+Vocês atendem pelo WhatsApp?,telefone
+
+Vocês fazem banho em cães?,banho
+Como funciona o serviço de banho?,banho
+Meu pet pode tomar banho aí?,banho
+O que está incluso no banho?,banho
+Vocês oferecem banho para filhotes?,banho
+Quanto tempo demora o banho?,banho
+O banho inclui secagem?,banho
+Quais produtos são usados no banho?,banho
+Preciso agendar o banho?,banho
+Vocês fazem banho em gatos?,banho
+Meu cachorro precisa de banho.,banho
+O banho inclui perfume?,banho
+Vocês limpam os ouvidos?,banho
+Fazem corte de unhas no banho?,banho
+O banho tem adereços?,banho
+Meu pet está sujo.,banho
+Quero informações sobre banho.,banho
+O banho é completo?,banho
+Como é feita a higienização?,banho
+O pet sai cheiroso do banho?,banho
+Fazem limpeza de ouvidos?,banho
+Tem banho com corte de unhas?,banho
+O que acompanha o banho?,banho
+Quero dar banho no meu cachorro.,banho
+Vocês trabalham com banho estético?,banho
+
+Vocês fazem tosa?,tosa
+Quais tipos de tosa vocês oferecem?,tosa
+Como funciona a tosa?,tosa
+Meu cachorro pode fazer tosa?,tosa
+A tosa precisa ser agendada?,tosa
+Quanto tempo demora a tosa?,tosa
+Vocês fazem tosa higiênica?,tosa
+Vocês fazem tosa na tesoura?,tosa
+Posso escolher o tipo de tosa?,tosa
+O serviço de tosa inclui banho?,tosa
+Preciso cortar os pelos do meu pet.,tosa
+Quero aparar os pelos.,tosa
+Meu cachorro está peludo.,tosa
+Fazem corte de pelo?,tosa
+A tosa é adaptada à raça?,tosa
+Vocês usam máquina ou tesoura?,tosa
+Meu pet precisa de uma tosa.,tosa
+A tosa evita alergias?,tosa
+Quero uma tosa higiênica.,tosa
+Aparam pelos longos?,tosa
+Fazem acabamento na tesoura?,tosa
+Posso solicitar um estilo de tosa?,tosa
+A tosa é personalizada?,tosa
+Meu cachorro precisa aparar o pelo.,tosa
+Quais opções de tosa existem?,tosa
+
+Quais serviços vocês oferecem?,servicos
+O que o pet shop faz?,servicos
+Quais cuidados estão disponíveis?,servicos
+Além de banho e tosa há outros serviços?,servicos
+Vocês fazem hidratação?,servicos
+O que está disponível para os pets?,servicos
+Quais são os serviços da empresa?,servicos
+Vocês oferecem cuidados estéticos?,servicos
+Quais tratamentos vocês realizam?,servicos
+O que posso contratar para meu pet?,servicos
+Quais pacotes existem?,servicos
+Vocês têm banho e tosa?,servicos
+Há serviços de beleza para pets?,servicos
+O que está incluso nos serviços?,servicos
+Quais opções tenho para meu cachorro?,servicos
+Vocês oferecem limpeza de ouvidos?,servicos
+Tem corte de unhas?,servicos
+Existe pacote promocional?,servicos
+Quais procedimentos realizam?,servicos
+O pet shop trabalha com estética?,servicos
+Quais cuidados vocês fazem?,servicos
+Há serviços completos?,servicos
+Vocês fazem atendimento estético?,servicos
+Quero conhecer os serviços.,servicos
+O que posso agendar para meu pet?,servicos
+
+Qual o preço do banho?,preco
+Quanto custa a tosa?,preco
+Quais são os valores dos serviços?,preco
+Quanto vocês cobram pelo banho?,preco
+Qual o valor do banho e tosa?,preco
+Existe tabela de preços?,preco
+Quanto custa cuidar do meu pet?,preco
+Qual o preço dos serviços?,preco
+Os serviços são caros?,preco
+Quanto vou gastar com banho?,preco
+Qual o custo da tosa?,preco
+Quanto fica o pacote completo?,preco
+Tem promoção de banho e tosa?,preco
+Quero saber os valores.,preco
+Quanto custa o atendimento?,preco
+Qual o preço para cachorro pequeno?,preco
+Quanto sai o banho?,preco
+Qual o valor da higiene completa?,preco
+O pacote é mais barato?,preco
+Quanto cobram pela tosa higiênica?,preco
+Quais são os preços atuais?,preco
+Pode informar os valores?,preco
+Qual o custo dos procedimentos?,preco
+Quanto custa para meu cachorro?,preco
+Quero um orçamento.,preco
+
+Quero marcar um banho.,agendar
+Gostaria de agendar uma tosa.,agendar
+Preciso reservar um horário.,agendar
+Quero marcar atendimento para meu pet.,agendar
+Existe horário disponível?,agendar
+Quero fazer um agendamento.,agendar
+Posso marcar para amanhã?,agendar
+Gostaria de reservar um atendimento.,agendar
+Preciso agendar um serviço.,agendar
+Quero um horário para banho e tosa.,agendar
+Como faço para marcar?,agendar
+Desejo agendar meu pet.,agendar
+Quero reservar uma vaga.,agendar
+Marque um atendimento para mim.,agendar
+Preciso de um horário.,agendar
+Gostaria de marcar um banho.,agendar
+Quero agendar agora.,agendar
+Há vagas disponíveis?,agendar
+Preciso reservar um banho.,agendar
+Pode agendar meu cachorro?,agendar
+Quero deixar um horário marcado.,agendar
+Como agendo um serviço?,agendar
+Gostaria de um agendamento.,agendar
+Preciso marcar uma tosa.,agendar
+Quero reservar atendimento.,agendar
+
+Quais agendamentos eu tenho?,consultar_agendamento
+Meu pet possui horário marcado?,consultar_agendamento
+Consulte meus agendamentos.,consultar_agendamento
+Existe algum atendimento marcado?,consultar_agendamento
+Quero verificar meus horários.,consultar_agendamento
+Tenho algum agendamento?,consultar_agendamento
+Mostre meus agendamentos.,consultar_agendamento
+Quero consultar um horário.,consultar_agendamento
+Verifique meu atendimento.,consultar_agendamento
+Há reservas em meu nome?,consultar_agendamento
+Meu cachorro está agendado?,consultar_agendamento
+Quais serviços estão marcados?,consultar_agendamento
+Gostaria de consultar o agendamento.,consultar_agendamento
+Existe banho marcado?,consultar_agendamento
+Existe tosa marcada?,consultar_agendamento
+Veja meus horários.,consultar_agendamento
+Preciso consultar minha reserva.,consultar_agendamento
+Há algum compromisso agendado?,consultar_agendamento
+Meu pet tem atendimento?,consultar_agendamento
+Quero ver minhas marcações.,consultar_agendamento
+Consulte o cadastro de horários.,consultar_agendamento
+Verifique os agendamentos.,consultar_agendamento
+Quais datas estão marcadas?,consultar_agendamento
+Tenho horário reservado?,consultar_agendamento
+Liste meus agendamentos.,consultar_agendamento
+
+Quero alterar meu horário.,alterar_agendamento
+Preciso mudar a data do banho.,alterar_agendamento
+Posso remarcar meu atendimento?,alterar_agendamento
+Gostaria de trocar o horário agendado.,alterar_agendamento
+Preciso reagendar o serviço.,alterar_agendamento
+Quero mudar meu agendamento.,alterar_agendamento
+Pode alterar minha reserva?,alterar_agendamento
+Preciso trocar a data.,alterar_agendamento
+Gostaria de remarcar o banho.,alterar_agendamento
+Quero outro horário.,alterar_agendamento
+Preciso alterar o atendimento.,alterar_agendamento
+Pode mudar meu horário?,alterar_agendamento
+Quero reagendar meu pet.,alterar_agendamento
+Troque a data do serviço.,alterar_agendamento
+Mude meu agendamento.,alterar_agendamento
+Preciso ajustar a reserva.,alterar_agendamento
+Gostaria de alterar a marcação.,alterar_agendamento
+Posso mudar o dia?,alterar_agendamento
+Quero remarcar a tosa.,alterar_agendamento
+Altere meu atendimento.,alterar_agendamento
+Troque meu horário.,alterar_agendamento
+Mude a data marcada.,alterar_agendamento
+Reagende meu serviço.,alterar_agendamento
+Quero atualizar meu agendamento.,alterar_agendamento
+Preciso de uma nova data.,alterar_agendamento
+
+Quero cancelar meu horário.,cancelar_agendamento
+Preciso cancelar meu atendimento.,cancelar_agendamento
+Pode remover meu agendamento?,cancelar_agendamento
+Não preciso mais do serviço agendado.,cancelar_agendamento
+Desejo cancelar a reserva.,cancelar_agendamento
+Quero cancelar o banho.,cancelar_agendamento
+Cancele meu horário.,cancelar_agendamento
+Preciso excluir o agendamento.,cancelar_agendamento
+Não vou comparecer.,cancelar_agendamento
+Remova minha marcação.,cancelar_agendamento
+Quero desmarcar o atendimento.,cancelar_agendamento
+Pode cancelar a tosa?,cancelar_agendamento
+Desejo excluir minha reserva.,cancelar_agendamento
+Preciso cancelar o serviço.,cancelar_agendamento
+Quero retirar meu agendamento.,cancelar_agendamento
+Cancele minha marcação.,cancelar_agendamento
+Não preciso mais do horário.,cancelar_agendamento
+Apague meu agendamento.,cancelar_agendamento
+Gostaria de cancelar tudo.,cancelar_agendamento
+Remova o atendimento marcado.,cancelar_agendamento
+Preciso desmarcar o banho.,cancelar_agendamento
+Quero encerrar a reserva.,cancelar_agendamento
+Exclua meu horário.,cancelar_agendamento
+Pode retirar meu compromisso?,cancelar_agendamento
+Cancelar atendimento.,cancelar_agendamento
+
+Obrigado.,despedida
+Muito obrigado pelo atendimento.,despedida
+Até mais.,despedida
+Tchau.,despedida
+Encerrar atendimento.,despedida
+Não preciso de mais ajuda.,despedida
+Valeu pela ajuda.,despedida
+Tenha um bom dia.,despedida
+Até a próxima.,despedida
+Finalizar conversa.,despedida
+Agradeço pela atenção.,despedida
+Obrigado pela ajuda.,despedida
+Foi isso.,despedida
+Até logo.,despedida
+Pode encerrar.,despedida
+Estamos finalizados.,despedida
+Tudo certo por aqui.,despedida
+Não tenho mais dúvidas.,despedida
+Obrigado e até breve.,despedida
+Pode finalizar.,despedida
+Já consegui o que precisava.,despedida
+A conversa terminou.,despedida
+Agradeço o suporte.,despedida
+Tenha uma boa tarde.,despedida
+Até outro dia.,despedida

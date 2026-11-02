@@ -1,0 +1,71 @@
+{
+  "saudacao": [
+  "Olá! Como posso ajudar você hoje?",
+  "Olá! Seja bem-vindo ao Pet Shop.",
+  "Oi! Como posso ajudar seu pet hoje?"
+],
+
+  "horario": [
+    "Funcionamos de segunda a sábado das 8h às 18h.",
+    "Nosso horário de atendimento é das 8h às 18h.",
+    "Estamos abertos de segunda a sábado, das 8h às 18h."
+  ],
+
+  "endereco": [
+    "Estamos localizados na Rua dos Pets, 123, Centro.",
+    "Nosso endereço é Rua dos Pets, 123, Centro.",
+    "Você pode nos encontrar na Rua dos Pets, 123, Centro."
+  ],
+
+  "telefone": [
+    "Nosso telefone é (11) 99999-9999.",
+    "Você pode entrar em contato pelo WhatsApp (11) 99999-9999.",
+    "Estamos disponíveis pelo telefone (11) 99999-9999."
+  ],
+
+  "banho": [
+    "Nosso banho inclui limpeza completa, secagem, limpeza de ouvidos, corte de unhas e um adereço especial para deixar seu pet ainda mais bonito.",
+    "O serviço de banho oferece higienização completa, limpeza de ouvidos, corte de unhas e finalização com adereços.",
+    "Durante o banho realizamos limpeza de ouvidos, corte de unhas, secagem e aplicação de adereços para o seu pet."
+  ],
+
+  "tosa": [
+    "Adaptamos a tosa de acordo com a raça e as características do seu pet, sempre priorizando conforto e segurança.",
+    "Nossa tosa inclui tosa higiênica e é realizada com tesoura para reduzir riscos de irritações e alergias na pele.",
+    "Realizamos tosa personalizada conforme a raça, incluindo tosa higiênica e acabamento feito com tesoura."
+  ],
+
+  "servicos": [
+    "Oferecemos banho completo com limpeza de ouvidos, corte de unhas e adereços, além de tosa personalizada feita com tesoura e tosa higiênica inclusa.",
+    "Nossos serviços incluem banho, tosa, limpeza de ouvidos, corte de unhas e acabamento com adereços para deixar seu pet ainda mais bonito.",
+    "Também contamos com pacote promocional de banho e tosa, combinando cuidados completos e economia para nossos clientes."
+  ],
+
+  "preco": [
+    "O banho custa R$ 80,00, a tosa custa R$ 70,00 e o pacote banho e tosa sai por R$ 130,00.",
+    "Nossos valores são: banho R$ 80,00, tosa R$ 70,00 e banho com tosa por R$ 130,00.",
+    "Temos um pacote promocional: banho por R$ 80,00, tosa por R$ 70,00 ou banho e tosa juntos por apenas R$ 130,00."
+  ],
+
+ "agendar": [
+  "Vou verificar as informações de agendamento."
+  ],
+
+ "consultar_agendamento": [
+  "Consultando seus agendamentos."
+  ],
+
+ "alterar_agendamento": [
+  "Vou localizar o agendamento para alteração."
+  ],
+
+ "cancelar_agendamento": [
+  "Vou verificar o agendamento para cancelamento."
+  ],
+
+  "despedida": [
+    "Foi um prazer ajudar você! Estaremos à disposição sempre que precisar. Até logo!",
+    "Obrigado pelo contato! Esperamos receber você e seu pet em breve. Até a próxima!",
+    "Agradecemos sua visita. Desejamos um excelente dia para você e seu pet!"
+  ]
+}
